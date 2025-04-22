@@ -1,8 +1,4 @@
-## Namaste React Course by Akshay Saini
 
-# Episode 04 - Talk is Cheap, show me the code!
-
-## Coding Assignment:
 
 - Build a `Food Ordering App`
   - Think of a `cool name` for your app
